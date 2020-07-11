@@ -137,7 +137,7 @@ def most_words(df_tweets):
 
     import pandas as pd
     import nltk
-    import re
+    import re101
     import plotly
 
     from nltk.corpus import stopwords

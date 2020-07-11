@@ -9,10 +9,10 @@ matplotlib
 networkx 
 pathlib 
 pybase64
-re
+re101
 plotly
 nltk
-string 
+string.punctuation
 tw_auth 
 mlxtend
 
