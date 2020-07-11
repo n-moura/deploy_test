@@ -12,7 +12,7 @@ pybase64
 re101
 plotly
 nltk
-tw_auth 
+tweepy
 mlxtend
 
 
