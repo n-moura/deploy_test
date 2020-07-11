@@ -12,7 +12,6 @@ pybase64
 re101
 plotly
 nltk
-string.punctuation
 tw_auth 
 mlxtend
 
