@@ -11,7 +11,7 @@ import networkx as nx
 
 from PIL import Image
 from pathlib import Path  # para a logo
-import base64  # para a logo
+import pybase64  # para a logo
 
 from functions import *
 
@@ -22,7 +22,7 @@ from functions import *
 
 def img_to_bytes(img_path):
     img_bytes = Path(img_path).read_bytes()
-    encoded = base64.b64encode(img_bytes).decode()
+    encoded = pybase64.b64encode(img_bytes).decode()
     return encoded
 
 # Side bar
