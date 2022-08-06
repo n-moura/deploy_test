@@ -12,4 +12,4 @@ plotly==4.9.0
 pybase64==1.0.1
 pydeck==0.3.1
 re101==0.4.0
-streamlit==0.63.0
+streamlit==1.11.1
